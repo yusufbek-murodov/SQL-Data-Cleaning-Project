@@ -209,6 +209,9 @@ DROP COLUMN row_num;
 SELECT * 
 FROM world_layoffs.layoffs_staging2;
 
+#hello
+SELECT total_laid_off
+FROM world_layoffs;
 
 
 
